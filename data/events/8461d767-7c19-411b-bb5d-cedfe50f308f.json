@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "11682849-c524-4fe5-b7e1-53254b4456c0": {
+      "label": "AV File 95",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/229/772/original/2015-10-02_04_15_16040.mp4?1708968822",
+      "duration": 657.42342,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-02T17:25:30.660Z",
+  "created_by": "seanluyk",
+  "label": "Media File 95 of 108 - 2015-10-02_04_15_16040.mp4",
+  "updated_at": "2026-02-02T17:25:30.660Z",
+  "updated_by": "seanluyk",
+  "rights_statement": ""
+}
