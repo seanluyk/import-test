@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7ef4e63a-d6e8-4f63-9fad-edc9e20dba0a": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/299/409/original/Thunderstorms%20and%20Symphonies%20of%20the%20Brain.wav?1767591975",
+      "duration": 302.65372,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-02T17:24:36.239Z",
+  "created_by": "seanluyk",
+  "label": "Media File 1 of 1 - Thunderstorms and Symphonies of the Brain.wav",
+  "updated_at": "2026-02-02T17:24:36.239Z",
+  "updated_by": "seanluyk",
+  "rights_statement": ""
+}
